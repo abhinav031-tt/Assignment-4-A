@@ -8,5 +8,5 @@ sample input: 10
 '''
 
 
-x = lambda a : a + 10
-print(x(25))
+x = lambda a : a + 25
+print(x(10))
